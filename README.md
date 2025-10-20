@@ -45,7 +45,7 @@ Inspired by Google Drive, it offers a clean, fast, and responsive interface with
 
 ## 👨‍💻 About the Developer
 
-Hi, I'm **Subhajit Sahu** — a passionate full-stack developer and 3rd-year Computer Science student.  
+Hi, I'm **Subhajit Sahu** — a passionate full-stack developer
 I love building web applications that merge creativity with real-world functionality.  
 💡 Skilled in **React, Node.js, Express, MongoDB, Next.js, and Appwrite**,  
 I aim to keep learning, innovating, and creating impactful digital experiences.
